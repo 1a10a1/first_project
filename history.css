@@ -1,0 +1,109 @@
+body {
+    background-color: #caedd0;
+    color: #3a5794;
+    font-size: 22px;
+    margin: 35px 75px 35px 75px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 32px;
+    background-image: radial-gradient(circle at 10px 0, rgba(255, 255, 255, 0) 9px, #396b87 10px, rgba(255, 255, 255, 0) 11px);
+    background-repeat: repeat-x;
+    background-size: 20px 11px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 450;
+    font-size: xx-large;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.picture_right {
+    float: right;
+    border: 1px  solid #0e6596;
+
+}
+
+.picture_right2 {
+    float: right;
+    border: 1px  solid #0e6596;
+
+}
+
+.picture_right3 {
+    float: right;
+    border: 1px  solid #0e6596;
+}
+
+.one:hover {
+    color: #476ab5;
+    text-decoration: underline
+}
+
+.one {
+    text-decoration: none;
+    font-style: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3a5794;
+}
+
+nav {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    font-style: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3a5794;
+}
+
+a:hover {
+    color: #476ab5;
+    text-decoration: underline
+}
+
+.picture2 {
+    font-style: italic;
+    font-size: 15px;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-family: 'Open Sans', sans-serif;
+}
+
+table th {
+    background: #c5e0d4;
+    border: 2px solid #abbab3;
+    padding: 10px 10px;
+    font-weight: 600;
+}
+
+table td {
+    background: #c5e0d4;
+    border: 2px solid #abbab3;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.united:hover {
+    color: #476ab5;
+    text-decoration: none;
+}
+
+.united {
+    text-decoration: none;
+}

@@ -1,0 +1,93 @@
+body {
+    background-color: #caedd0;
+    color: #3a5794;
+    font-size: 22px;
+    margin: 35px 75px 35px 75px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 32px;
+    background-image: radial-gradient(circle at 10px 0, rgba(255, 255, 255, 0) 9px, #396b87 10px, rgba(255, 255, 255, 0) 11px);
+    background-repeat: repeat-x;
+    background-size: 20px 11px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 450;
+    font-size: xx-large;
+}
+
+.picture_right {
+    float: right;
+    border: 1px solid #0e6596;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("https://grizly.club/uploads/posts/2022-12/thumbs/1671875738_grizly-club-p-ornament-bezhevii-21.jpg");
+
+    height: 100vh;
+    color: #253036;
+    font-size: 15px;
+
+}
+
+table th {
+
+    border: 2px solid #abbab3;
+    padding: 10px 10px;
+    font-weight: 600;
+}
+
+table td {
+
+    border: 2px solid #abbab3;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-style: Verdana, Geneva, Tahoma, sans-serif;
+    color: #253036;
+}
+
+a:hover {
+    color: #476ab5;
+    text-decoration: none
+}
+
+.picture {
+    border: 2px solid #876585;
+}
+
+nav {
+    font-size: 18px;
+}
+
+.one:hover {
+    color: #476ab5;
+    text-decoration: underline
+}
+
+.one {
+    text-decoration: none;
+    font-style: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3a5794;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
